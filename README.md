@@ -3,7 +3,7 @@
 To run the app: 
 
 1. Clone the repository
-2. Using PowerShell, cd to lab5SoftwareA-D\
+2. Using PowerShell or CMD, cd to lab5SoftwareA-D\
 3. Start the virtual environment (named .venv)
 4. cd to mysite
 5. Run python manage.py runserver
